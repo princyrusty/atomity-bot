@@ -1,4 +1,4 @@
-ATOMITY AI
+#ATOMITY AI
 An ultra-intelligent AI assistant designed for advanced reasoning, geospatial analysis, and multi-modal data processing to solve complex cases.
 
 🚀 Overview
