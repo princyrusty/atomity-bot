@@ -1,0 +1,7 @@
+{
+  "name": "Atomity",
+  "description": "An ultra-intelligent AI chatbot designed for advanced reasoning and analysis to assist in solving complex mysteries and cases.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
