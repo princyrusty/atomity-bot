@@ -1,12 +1,12 @@
-##ATOMITY AI
+## ATOMITY AI
 
 An ultra-intelligent AI assistant designed for advanced reasoning, geospatial analysis, and multi-modal data processing to solve complex cases.
 
-##🚀 Overview
+## 🚀 Overview
 ATOMITY is a sophisticated AI chatbot built to assist in complex investigations and analytical tasks. Leveraging the power of Google's Gemini-2.5-Flash model, ATOMITY acts as a brilliant analytical partner, capable of processing textual queries, analyzing images, summarizing documents, and plotting critical geospatial data on an interactive map.
 The application is framed with a specific persona: an AI entity providing precise, evidence-based deductions for official use within India, making its responses contextually aware and highly specialized. It's a demonstration of how powerful language models can be harnessed for specialized, high-stakes applications.
 
-##✨ Key Features
+## ✨ Key Features
 Advanced AI Reasoning: Powered by Google Gemini, providing nuanced and logical analysis for complex problems.
 Multi-Modal Capabilities:
 Image Analysis: Upload images for detailed examination of objects, faces, and landmarks.
